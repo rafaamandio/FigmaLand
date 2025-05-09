@@ -1,6 +1,7 @@
-# Nuxt Minimal Starter
+# Figmaland
+A project using TailwindCSS with Nuxt and Figma Communit design called [Figmaland](https://www.figma.com/design/snn9jW4kkli4zSx14OyAVe/Figmaland--Business-Landing-page--Community-?node-id=65-0&p=f&t=AraiNI0dQ5lP6pm1-0).
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [TailwindCSS Install](https://tailwindcss.com/docs/installation/framework-guides/nuxt) to install TailwindCSS with Nuxt.
 
 ## Setup
 
@@ -38,38 +39,5 @@ yarn dev
 bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
